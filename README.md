@@ -1,4 +1,4 @@
-# cyber-geiger_EDU_content
+# GEIGER EDU learning content
 
 This repo contains all the learning contents of the GEIGER mobile learning program in html format.
 
