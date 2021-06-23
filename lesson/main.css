@@ -26,6 +26,7 @@ body{
 
 img{
 	margin-bottom: 4rem;
+	max-width: 100%;
 }
 .img-small{
 	width: 	15rem;
